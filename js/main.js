@@ -131,7 +131,7 @@ jQuery(document).ready(function($) {
 				stagePadding: 0,
 		    margin: 20,
 		    smartSpeed: 1000,
-		    autoplay: true,
+		    autoplay: false,
 		    nav: true,
 				navText: ['<span class="icon-keyboard_arrow_left">', '<span class="icon-keyboard_arrow_right">'],
 		    responsive:{
