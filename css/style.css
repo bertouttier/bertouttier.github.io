@@ -529,7 +529,13 @@ body:after {
   .sticky-wrapper .site-navbar .site-menu-toggle {
     color: #fff; }
   .sticky-wrapper .site-navbar .site-logo a {
-    color: #fff; }
+    color: #fff;
+    margin-top: 20px;
+    width: 280px;
+    height: 90px;
+    background-image: url("../images/dlpc_logo_white.png");
+    background-size: 190px 70px;
+    background-repeat: no-repeat; }
   .sticky-wrapper .site-navbar .site-menu > li > a {
     color: rgba(255, 255, 255, 0.7) !important; }
     .sticky-wrapper .site-navbar .site-menu > li > a:hover, .sticky-wrapper .site-navbar .site-menu > li > a.active {
@@ -542,7 +548,13 @@ body:after {
     .sticky-wrapper.is-sticky .site-navbar .site-menu-toggle {
       color: #000; }
     .sticky-wrapper.is-sticky .site-navbar .site-logo a {
-      color: #000; }
+      color: #000;
+      margin-top: 20px;
+      width: 300px;
+      height: 90px;
+      background-image: url("../images/dlpc_logo.png");
+      background-size: 190px 70px;
+      background-repeat: no-repeat; }
     .sticky-wrapper.is-sticky .site-navbar .site-menu > li > a {
       color: #000 !important;
       padding: 20px 20px; }
